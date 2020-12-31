@@ -1,4 +1,4 @@
---[[Atlas Flight Simulator Hook Script. to test it out join our discord.gg/atlasfs its a flight simulator :). Thanks!]]--
+--[[Atlas Flight Simulator Hook Script! to test it out join our discord.gg/atlasfs its a flight simulator :). Thanks!]]--
 
 function ShowNotification(text)
     SetNotificationTextEntry("STRING")
